@@ -54,11 +54,11 @@ Public site for a national physician-owned medical group providing physiatry & p
 🔗 https://www.crehabconsultants.com/  
 
 **Wakeel AI** — LegalTech “super app” & marketplace (beta)  
-Platform aimed at Pakistan’s legal ecosystem: lawyer marketplace, statutes/case-law browsing, case history with AI, and document review (coming soon).  
+Platform aimed at Pakistan’s legal ecosystem: lawyer marketplace, statutes/case-law browsing, case history with AI, and document review.  
 🔗 https://www.wakeel.ai/  
 
 **Solar Citizen / Sol AI** — Solar EPC + in-house AI monitoring  
-Customer-facing site for systems, services, projects, and contact; in-house **Sol AI** adds real-time monitoring, multi-site dashboards, and daily WhatsApp/Email reports.  
+Customer-facing site for systems, services, projects, and contacts; in-house **Sol AI** adds real-time monitoring, multi-site dashboards, and daily WhatsApp/Email reports.  
 🔗 https://www.solarcitizen.com.pk/ · (Sol AI: internal)
 
 **Shotbox** — Events & ticketing experience  
@@ -68,10 +68,11 @@ Event brand site with performer lineup, guided ticketing (normal/early bird/VIP)
 ---
 
 ### 💼 Experience
-- **MERN Stack Developer — Squarera** (2023 – Present)  
-  Build and maintain web apps, integrate REST APIs, optimize performance, write tests, and collaborate with UX/Backend.
-- **MERN Stack Developer — Atompoint** (Mar 2022 – Feb 2023)  
+- **MERN Stack Developer — Atompoint** (Mar 2023 – Present)  
   Delivered responsive frontends, API integrations, and data-driven UI components with Git-based workflows.
+- **MERN Stack Developer — Squarera** (Jan 2022 – Feb 2023)  
+  Build and maintain web apps, integrate REST APIs, optimize performance, write tests, and collaborate with UX/Backend.
+
 
 **Education:** Bachelor’s in Information Technology
 
