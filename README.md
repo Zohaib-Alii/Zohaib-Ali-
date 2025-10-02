@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;3%2B+years+building+web+apps;React+%7C+Next.js+%7C+Node+%7C+MongoDB;API+design+%26+system+architecture;Clean%2C+scalable%2C+tested+code;Always+learning+and+shipping&center=true&width=650&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;API+design+%26+system+architecture;React%2FNext.js+%7C+Node%2FExpress+%7C+MongoDB;Clean%2C+scalable%2C+tested+code;Always+learning+and+shipping&center=true&width=650&height=45">
   </a>
 </p>
 
@@ -18,14 +18,14 @@
 ---
 
 ### 🧑‍💻 About me
-- MERN developer with **3+ years** crafting full-stack web applications.
+- MERN developer building production web apps end-to-end.
 - Comfortable across the stack: **React/Next.js**, **Node/Express**, **MongoDB**, modern UI kits, and testing.
 - I care about **clean, maintainable code**, performance, and collaborative delivery.
 
 ---
 
 ### 🛠️ Tech I use
-**Frontend:** React, Next.js, Redux & Redux Toolkit, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind CSS, Bootstrap, Material UI, Ant Design  
+**Frontend:** React, Next.js, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, Bootstrap, Material UI  
 **Backend:** Node.js, Express.js, Firebase  
 **Database:** MongoDB  
 **Tools/Testing:** Git & GitHub, Cypress, Postman, RESTful APIs
@@ -47,21 +47,31 @@
 
 ---
 
-### 🚀 Selected work
-- **HRM System (MERN)** — end-to-end internal HR platform (auth, roles, dashboards, data visualization).
-- **ScopBot** — AI-assisted SRS & project-planning helper to generate dynamic requirement docs.
-- **Rehab Health Platform** — helped build from scratch; now supports **600k+ patients** across **1000+ facilities**; led onboarding and platform expansion.
+### 🚀 Key Projects
 
-> Want a walkthrough or demo links? Ping me on LinkedIn or email.
+**Comprehensive Rehab Consultants (CRC)** — Healthcare tech for post-acute care  
+Public site for a national physician-owned medical group providing physiatry & psychiatry services; tech-enabled workflows and outcomes-focused content.  
+🔗 https://www.crehabconsultants.com/  
+
+**Wakeel AI** — LegalTech “super app” & marketplace (beta)  
+Platform aimed at Pakistan’s legal ecosystem: lawyer marketplace, statutes/case-law browsing, case history with AI, and document review (coming soon).  
+🔗 https://www.wakeel.ai/  
+
+**Solar Citizen / Sol AI** — Solar EPC + in-house AI monitoring  
+Customer-facing site for systems, services, projects, and contact; in-house **Sol AI** adds real-time monitoring, multi-site dashboards, and daily WhatsApp/Email reports.  
+🔗 https://www.solarcitizen.com.pk/ · (Sol AI: internal)
+
+**Shotbox** — Events & ticketing experience  
+Event brand site with performer lineup, guided ticketing (normal/early bird/VIP), and a curated onboarding flow for attendees.  
+🔗 https://shotbox.pk/
 
 ---
 
 ### 💼 Experience
-- **MERN Stack Developer — Atompoint** (Mar 2023 – Present)  
-  Delivered responsive frontends, API integrations, and data-driven UI components; code reviews and Git-based workflows.
-- **MERN Stack Developer — Squarera** (Jan 2022 – Feb 2023)  
-  Build and maintain web apps, integrate RESTful APIs, write unit tests, optimize performance, and collaborate across UX/Backend.
-
+- **MERN Stack Developer — Squarera** (2023 – Present)  
+  Build and maintain web apps, integrate REST APIs, optimize performance, write tests, and collaborate with UX/Backend.
+- **MERN Stack Developer — Atompoint** (Mar 2022 – Feb 2023)  
+  Delivered responsive frontends, API integrations, and data-driven UI components with Git-based workflows.
 
 **Education:** Bachelor’s in Information Technology
 
