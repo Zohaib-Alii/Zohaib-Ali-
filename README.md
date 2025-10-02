@@ -57,10 +57,11 @@
 ---
 
 ### 💼 Experience
-- **MERN Stack Developer — Squarera** (2023 – Present)  
-  Build and maintain web apps, integrate RESTful APIs, write unit tests, optimize performance, and collaborate across UX/Backend.
-- **MERN Stack Developer — Atompoint** (Mar 2022 – Feb 2023)  
+- **MERN Stack Developer — Atompoint** (Mar 2023 – Present)  
   Delivered responsive frontends, API integrations, and data-driven UI components; code reviews and Git-based workflows.
+- **MERN Stack Developer — Squarera** (Jan 2022 – Feb 2023)  
+  Build and maintain web apps, integrate RESTful APIs, write unit tests, optimize performance, and collaborate across UX/Backend.
+
 
 **Education:** Bachelor’s in Information Technology
 
