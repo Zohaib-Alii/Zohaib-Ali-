@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;API+design+%26+system+architecture;React%2FNext.js+%7C+Node%2FExpress+%7C+MongoDB;Clean%2C+scalable%2C+tested+code;Always+learning+and+shipping&center=true&width=650&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;API+design+%26+system+architecture;React%2FNext.js+%7C+Node%2FExpress+%7C+MongoDB%2FPostgreSQL;Prisma+ORM+%7C+SQL;Clean%2C+scalable%2C+tested+code;Always+learning+and+shipping&center=true&width=760&height=45">
   </a>
 </p>
 
@@ -19,16 +19,16 @@
 
 ### 🧑‍💻 About me
 - MERN developer building production web apps end-to-end.
-- Comfortable across the stack: **React/Next.js**, **Node/Express**, **MongoDB**, modern UI kits, and testing.
+- Comfortable across the stack: **React/Next.js**, **Node/Express**, **MongoDB/PostgreSQL**, **Prisma**, modern UI kits, and testing.
 - I care about **clean, maintainable code**, performance, and collaborative delivery.
 
 ---
 
 ### 🛠️ Tech I use
 **Frontend:** React, Next.js, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, Bootstrap, Material UI  
-**Backend:** Node.js, Express.js, Firebase  
-**Database:** MongoDB  
-**Tools/Testing:** Git & GitHub, Cypress, Postman, RESTful APIs
+**Backend:** Node.js, Express.js, REST APIs, Firebase  
+**Database:** MongoDB, **PostgreSQL/MySQL**, **SQL**, **Prisma ORM**  
+**Tools/Testing:** Git & GitHub, Cypress, Postman
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
@@ -38,6 +38,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40"/>
@@ -50,29 +53,40 @@
 ### 🚀 Key Projects
 
 **Comprehensive Rehab Consultants (CRC)** — Healthcare tech for post-acute care  
-Public site for a national physician-owned medical group providing physiatry & psychiatry services; tech-enabled workflows and outcomes-focused content.  
-🔗 https://www.crehabconsultants.com/  
+*Rehab at scale — assign the right patient to the right physician, fast.*  
+- Built physician-assignment workflows powering **800k+ patient records** with role-based access and audit-friendly documentation.  
+- Streamlined facility → clinician collaboration and scheduling; improved continuity of care and outcomes tracking.  
+- Delivered performant UI for high-volume lists, filters and search.  
+🔗 https://www.crehabconsultants.com/  *(public site)*  — *internal platform details above are my work highlights.*  :contentReference[oaicite:0]{index=0}
 
 **Wakeel AI** — LegalTech “super app” & marketplace (beta)  
-Platform aimed at Pakistan’s legal ecosystem: lawyer marketplace, statutes/case-law browsing, case history with AI, and document review.  
-🔗 https://www.wakeel.ai/  
+*Law, but faster — discover lawyers, search statutes, track cases, and review docs with AI.*  
+- Prototyped marketplace & AI features: **Featured Lawyers**, **Statutes/Case Laws** browsing, **Case History with AI**, **Document Review (coming)**.  
+- Designed modular APIs and data models for future billing, messaging, and role-based access.  
+- Built clean marketing site + beta auth flows to onboard early users.  
+🔗 https://www.wakeel.ai/  :contentReference[oaicite:1]{index=1}
 
 **Solar Citizen / Sol AI** — Solar EPC + in-house AI monitoring  
-Customer-facing site for systems, services, projects, and contacts; in-house **Sol AI** adds real-time monitoring, multi-site dashboards, and daily WhatsApp/Email reports.  
-🔗 https://www.solarcitizen.com.pk/ · (Sol AI: internal)
+*See every watt — real-time health, daily WhatsApp/Email reports, multi-site dashboards.*  
+- Added **string-level monitoring**, daily production/consumption analytics, and status insights (critical, zero output, offline, etc.).  
+- Automated **daily WhatsApp + email** reporting with weather-aware commentary and savings.  
+- Built multi-tenant plant management with installer/owner views.  
+🔗 https://www.solarcitizen.com.pk/ · *(Sol AI is an internal product powering 24/7 mobile monitoring for customers.)*  :contentReference[oaicite:2]{index=2}
 
 **Shotbox** — Events & ticketing experience  
-Event brand site with performer lineup, guided ticketing (normal/early bird/VIP), and a curated onboarding flow for attendees.  
-🔗 https://shotbox.pk/
+*From lineup to check-in — a smooth, stylish path to the dance floor.*  
+- Implemented lineup pages, ticketing tiers (early bird/VIP), and attendee onboarding.  
+- Integrated “customer portal” entry point and streamlined contact flows.  
+- Optimized media and animations for snappy mobile performance.  
+🔗 https://shotbox.pk/  :contentReference[oaicite:3]{index=3}
 
 ---
 
 ### 💼 Experience
-- **MERN Stack Developer — Atompoint** (Mar 2023 – Present)  
-  Delivered responsive frontends, API integrations, and data-driven UI components with Git-based workflows.
-- **MERN Stack Developer — Squarera** (Jan 2022 – Feb 2023)  
-  Build and maintain web apps, integrate REST APIs, optimize performance, write tests, and collaborate with UX/Backend.
-
+- **MERN Stack Developer — Atompoint** *(Mar 2023 – Present)*  
+  Responsive frontends, API integrations, data-driven UI, Git workflows, performance tuning, and testing.
+- **MERN Stack Developer — Squarera** *(Jan 2022 – Feb 2023)*  
+  Built and maintained web apps; integrated REST APIs; collaborated across UX/Backend; wrote unit and E2E tests.
 
 **Education:** Bachelor’s in Information Technology
 
