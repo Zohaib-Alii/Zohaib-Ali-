@@ -53,32 +53,32 @@
 ### 🚀 Key Projects
 
 **Comprehensive Rehab Consultants (CRC)** — Healthcare tech for post-acute care  
-*Rehab at scale — assign the right patient to the right physician, fast.*  
-- Built physician-assignment workflows powering **800k+ patient records** with role-based access and audit-friendly documentation.  
+*Rehab at scale — route the right patient to the right physician, fast.*  
+- Built physician-assignment workflows powering **800k+ patient records**, with role-based access and audit-friendly documentation.  
 - Streamlined facility → clinician collaboration and scheduling; improved continuity of care and outcomes tracking.  
-- Delivered performant UI for high-volume lists, filters and search.  
-🔗 https://www.crehabconsultants.com/  *(public site)*  — *internal platform details above are my work highlights.*  :contentReference[oaicite:0]{index=0}
+- Delivered performant UI for high-volume lists, filters, and search.  
+🔗 https://www.crehabconsultants.com/ *(public site)* — *internal platform work highlighted above.*
 
 **Wakeel AI** — LegalTech “super app” & marketplace (beta)  
 *Law, but faster — discover lawyers, search statutes, track cases, and review docs with AI.*  
 - Prototyped marketplace & AI features: **Featured Lawyers**, **Statutes/Case Laws** browsing, **Case History with AI**, **Document Review (coming)**.  
 - Designed modular APIs and data models for future billing, messaging, and role-based access.  
 - Built clean marketing site + beta auth flows to onboard early users.  
-🔗 https://www.wakeel.ai/  :contentReference[oaicite:1]{index=1}
+🔗 https://www.wakeel.ai/
 
 **Solar Citizen / Sol AI** — Solar EPC + in-house AI monitoring  
 *See every watt — real-time health, daily WhatsApp/Email reports, multi-site dashboards.*  
-- Added **string-level monitoring**, daily production/consumption analytics, and status insights (critical, zero output, offline, etc.).  
+- Added string-level monitoring, daily production/consumption analytics, and status insights (critical, zero output, offline, etc.).  
 - Automated **daily WhatsApp + email** reporting with weather-aware commentary and savings.  
 - Built multi-tenant plant management with installer/owner views.  
-🔗 https://www.solarcitizen.com.pk/ · *(Sol AI is an internal product powering 24/7 mobile monitoring for customers.)*  :contentReference[oaicite:2]{index=2}
+🔗 https://www.solarcitizen.com.pk/ · *(Sol AI is internal.)*
 
 **Shotbox** — Events & ticketing experience  
 *From lineup to check-in — a smooth, stylish path to the dance floor.*  
 - Implemented lineup pages, ticketing tiers (early bird/VIP), and attendee onboarding.  
 - Integrated “customer portal” entry point and streamlined contact flows.  
 - Optimized media and animations for snappy mobile performance.  
-🔗 https://shotbox.pk/  :contentReference[oaicite:3]{index=3}
+🔗 https://shotbox.pk/
 
 ---
 
